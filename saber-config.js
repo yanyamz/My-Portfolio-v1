@@ -10,10 +10,10 @@ module.exports = {
 
     // Use the package `saber-theme-portfolio`
     // More: https://saber.land/docs/themes.html
-    theme: 'portfolio',
-
+    theme: './theme/dist',
     // Configure the theme
     themeConfig: {
+        profilePicture: 'https://files.catbox.moe/pu8pfm.svg',
         projects: 'pinned-project',
         style: 'light',
         disqus: 'portfolio',
