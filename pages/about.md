@@ -4,4 +4,5 @@ layout: page
 ---
 
 Hello, I'm a Web Developer who specializes in making responsive webpages with Vue.js and Sass. I enjoy making unique, and fun projects that others can use, or I myself am interested in. Needless to say, you probably won't find traditional projects here
->All repo's have ***live*** links, so feel free to check out the associated websites
+
+> All repo's have **_live_** links, so feel free to check out the associated websites

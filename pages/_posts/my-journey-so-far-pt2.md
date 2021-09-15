@@ -2,6 +2,8 @@
 title: My Journey So Far Pt.2 (Projects)
 layout: post
 date: 2021-09-13 20:23:00
+assets:
+    cover: https://raw.githubusercontent.com/Qnnie/YuruCamp-Startpage/master/images/preview.png
 tags:
     - life
     - development

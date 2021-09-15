@@ -14,11 +14,11 @@ module.exports = {
 
     // Configure the theme
     themeConfig: {
+        projects: 'pinned-project',
         style: 'light',
+        disqus: 'portfolio',
         github: 'yanyamz',
         twitter: '',
-        sponsorLink: '',
-        sponsorTip: 'Support my work',
         nav: [
             {
                 text: 'Home',
@@ -32,39 +32,52 @@ module.exports = {
                 text: 'Contact',
                 link: '/contact',
             },
+            {
+                text: 'Posts',
+                link: '/posts',
+            },
         ],
         skills: [
             {
-                topic: 'vue',
-                description: `I love working with vue, vue-router, and vuex, as you can see from my projects`,
+                topic: 'html',
+                description: `HTML - The markup I use on a daily basis`,
             },
             {
-                topic: 'firebase',
-                description: `The only way I get anything that needs a database or authentication done`,
-            },
-            {
-                topic: 'nodejs',
-                description: `Although familiar, backend is still not my expertise, I'm getting there though`,
+                topic: 'css',
+                description: `CSS - My unexpected love thanks to flexbox and grid`,
             },
             {
                 topic: 'sass',
-                description: `I'm a big fan of the BEM method of writing and organizing CSS, so this is my preferred way of writing css`,
+                description: `Sass - CSS but on steroids, and what I prefer to write`,
             },
             {
                 topic: 'bulma',
-                description: `When I'm not using custom CSS, and I want to spring up a project quick, bulma is my choice`,
+                description: `Bulma - When I can't be bothered to write all my css`,
             },
             {
                 topic: 'tailwind',
-                description: `I guess I just really like messing with CSS, because tailwind is my newest way of writing CSS`,
+                description: `Tailwind - When bulma makes me mad and I need to write my own css, but in a nicer way`,
             },
             {
                 topic: 'javascript',
-                description: `Despite my use of Vue, I do enjoy using vanilla JS`,
+                description: `Javascript - Despite my use of Vue, I do enjoy using vanilla JS`,
             },
             {
+                topic: 'vue',
+                description: `Vue - My frontend framework of choice`,
+            },
+            {
+                topic: 'firebase',
+                description: `Firebase - When I need a quick backend`,
+            },
+            {
+                topic: 'nodejs',
+                description: `NodeJS - When I need a custom backend`,
+            },
+
+            {
                 topic: 'linux',
-                description: `I prefer working on Unix systems like Mac or Linux, the terminal is my future wife.`,
+                description: `Linux - Because I love developing on Unix systems`,
             },
         ],
     },
