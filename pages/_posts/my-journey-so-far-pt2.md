@@ -2,8 +2,8 @@
 title: My Journey So Far Pt.2 (Projects)
 layout: post
 date: 2021-09-13 20:23:00
-assets:
-    cover: https://raw.githubusercontent.com/Qnnie/YuruCamp-Startpage/master/images/preview.png
+# assets:
+#     cover: https://raw.githubusercontent.com/Qnnie/YuruCamp-Startpage/master/images/preview.png
 tags:
     - life
     - development
@@ -65,3 +65,6 @@ Another fully responsive webpage
 What I'm currently working on
 ![Image](https://camo.githubusercontent.com/5e56eb030f63158eb2dc0e91c6247091b6315e9771ebc189c8a01c16cdafde1f/68747470733a2f2f66696c65732e636174626f782e6d6f652f7634667275692e706e67)
 [Live Demo](https://aniopeningsonline.netlify.app)
+
+Although they may be embarassing to show off, it's always good to know where you came from. However these projects only scratch the surface of the mini-projects I've done. It would take me hours to post all of them.
+If you're learning, build whatever you want, you'll get better, and you'll stay more motivated that way, instead of building to-do apps and tutorials.

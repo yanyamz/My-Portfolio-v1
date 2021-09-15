@@ -22,11 +22,11 @@ export default {
         ProjectCard: ProjectCard,
     },
     // props: {
-    //   projects: {
-    //     type: Array,
-    //     required: true
-    //   }
-    // }
+    //     projects: {
+    //         type: Array,
+    //         required: true,
+    //     },
+    // },
     data() {
         return {
             projects: [
