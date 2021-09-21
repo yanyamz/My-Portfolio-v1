@@ -61,13 +61,14 @@ export default {
 					thumbnail: 'https://files.catbox.moe/dyhyp7.png',
 				},
 				{
-					name: 'Trivia.io',
-					description: 'A multiplayer quiz to take with your friends',
+					name: 'Nippah',
+					description:
+						' An online anime tracker built with Vue and Firebase ',
 					language: 'vue',
 					stars: 0,
-					url: 'https://github.com/yanyamz/Trivia.io',
-					website: 'https://triviabrain.herokuapp.com/',
-					thumbnail: 'https://files.catbox.moe/0we957.png',
+					url: 'https://github.com/yanyamz/Nippah',
+					website: 'https://nippah.com/',
+					thumbnail: 'https://files.catbox.moe/mdibbb.png',
 				},
 			],
 		}
