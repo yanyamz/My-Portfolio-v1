@@ -67,7 +67,7 @@ export default {
 					stars: 0,
 					url: 'https://github.com/yanyamz/Trivia.io',
 					website: 'https://triviabrain.herokuapp.com/',
-					thumbnail: 'https://files.catbox.moe/wc9l1t.png',
+					thumbnail: 'https://files.catbox.moe/0we957.png',
 				},
 			],
 		}
