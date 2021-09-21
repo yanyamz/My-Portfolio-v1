@@ -32,6 +32,7 @@ export default {
 					stars: 3,
 					url: 'https://github.com/yanyamz/Yui',
 					website: 'https://aniopeningsonline.netlify.app',
+					video: 'HEbPzbXhmns',
 				},
 				{
 					name: 'Nice Commerce',
@@ -40,6 +41,7 @@ export default {
 					stars: 0,
 					url: 'https://github.com/yanyamz/Nice_Commerce',
 					website: 'https://nice-commerce.netlify.app/',
+					thumbnail: 'https://files.catbox.moe/wc9l1t.png',
 				},
 				{
 					name: 'Key Visual Arts',
@@ -48,6 +50,7 @@ export default {
 					stars: 1,
 					url: 'https://github.com/yanyamz/Key_Visual_Arts',
 					website: 'https://keyvisualarts.netlify.app/',
+					thumbnail: 'https://files.catbox.moe/drvumk.png',
 				},
 				{
 					name: 'Planet Viewer',
@@ -56,6 +59,7 @@ export default {
 					stars: 0,
 					url: 'https://github.com/yanyamz/Planet_Viewer',
 					website: 'https://planet-viewer.netlify.app/mercury',
+					thumbnail: 'https://files.catbox.moe/dyhyp7.png',
 				},
 				{
 					name: 'Trivia.io',
@@ -64,6 +68,7 @@ export default {
 					stars: 0,
 					url: 'https://github.com/yanyamz/Trivia.io',
 					website: 'https://triviabrain.herokuapp.com/',
+					thumbnail: 'https://files.catbox.moe/wc9l1t.png',
 				},
 			],
 		}
