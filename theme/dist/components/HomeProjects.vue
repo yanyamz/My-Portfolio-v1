@@ -26,8 +26,7 @@ export default {
 			projects: [
 				{
 					name: 'Yui',
-					description:
-						' A soon to be multiplayer anime song quiz game! (Work in progress)',
+					description: ' A multiplayer anime song quiz game!',
 					language: 'vue',
 					stars: 3,
 					url: 'https://github.com/yanyamz/Yui',
