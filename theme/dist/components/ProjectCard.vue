@@ -4,7 +4,7 @@
 		<div v-if="project.video" class="project-video">
 			<iframe
 				width="100%"
-				height="200px"
+				height="300px"
 				:src="`https://www.youtube.com/embed/${project.video}`"
 				title="YouTube video player"
 				frameborder="0"

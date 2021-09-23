@@ -13,7 +13,7 @@ module.exports = {
 	theme: './theme/dist',
 	// Configure the theme
 	themeConfig: {
-		profilePicture: 'https://files.catbox.moe/pu8pfm.svg',
+		profilePicture: '',
 		projects: 'pinned-project',
 		style: 'light',
 		disqus: 'portfolio',
